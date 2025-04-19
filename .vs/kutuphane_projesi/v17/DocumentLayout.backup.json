@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lllle\\source\\repos\\kutuphane_projesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CFE687-3EDA-4228-B070-A63BE378B450}|kutuphane_projesi\\kutuphane_projesi.csproj|c:\\users\\lllle\\source\\repos\\kutuphane_projesi\\kutuphane_projesi\\oyunekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CFE687-3EDA-4228-B070-A63BE378B450}|kutuphane_projesi\\kutuphane_projesi.csproj|solutionrelative:kutuphane_projesi\\oyunekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CFE687-3EDA-4228-B070-A63BE378B450}|kutuphane_projesi\\kutuphane_projesi.csproj|C:\\Users\\lllle\\source\\repos\\kutuphane_projesi\\kutuphane_projesi\\oyunekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3CFE687-3EDA-4228-B070-A63BE378B450}|kutuphane_projesi\\kutuphane_projesi.csproj|solutionrelative:kutuphane_projesi\\oyunekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CFE687-3EDA-4228-B070-A63BE378B450}|kutuphane_projesi\\kutuphane_projesi.csproj|c:\\users\\lllle\\source\\repos\\kutuphane_projesi\\kutuphane_projesi\\skortablosuekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CFE687-3EDA-4228-B070-A63BE378B450}|kutuphane_projesi\\kutuphane_projesi.csproj|solutionrelative:kutuphane_projesi\\skortablosuekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CFE687-3EDA-4228-B070-A63BE378B450}|kutuphane_projesi\\kutuphane_projesi.csproj|C:\\Users\\lllle\\source\\repos\\kutuphane_projesi\\kutuphane_projesi\\skortablosuekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3CFE687-3EDA-4228-B070-A63BE378B450}|kutuphane_projesi\\kutuphane_projesi.csproj|solutionrelative:kutuphane_projesi\\skortablosuekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CFE687-3EDA-4228-B070-A63BE378B450}|kutuphane_projesi\\kutuphane_projesi.csproj|c:\\users\\lllle\\source\\repos\\kutuphane_projesi\\kutuphane_projesi\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3CFE687-3EDA-4228-B070-A63BE378B450}|kutuphane_projesi\\kutuphane_projesi.csproj|solutionrelative:kutuphane_projesi\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CFE687-3EDA-4228-B070-A63BE378B450}|kutuphane_projesi\\kutuphane_projesi.csproj|c:\\users\\lllle\\source\\repos\\kutuphane_projesi\\kutuphane_projesi\\anaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CFE687-3EDA-4228-B070-A63BE378B450}|kutuphane_projesi\\kutuphane_projesi.csproj|solutionrelative:kutuphane_projesi\\anaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SkorTablosuEkrani.cs",
+              "DocumentMoniker": "C:\\Users\\lllle\\source\\repos\\kutuphane_projesi\\kutuphane_projesi\\SkorTablosuEkrani.cs",
+              "RelativeDocumentMoniker": "kutuphane_projesi\\SkorTablosuEkrani.cs",
+              "ToolTip": "C:\\Users\\lllle\\source\\repos\\kutuphane_projesi\\kutuphane_projesi\\SkorTablosuEkrani.cs",
+              "RelativeToolTip": "kutuphane_projesi\\SkorTablosuEkrani.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAewB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T08:22:25.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lllle\\source\\repos\\kutuphane_projesi\\kutuphane_projesi\\AnaForm.cs",
+              "RelativeDocumentMoniker": "kutuphane_projesi\\AnaForm.cs",
+              "ToolTip": "C:\\Users\\lllle\\source\\repos\\kutuphane_projesi\\kutuphane_projesi\\AnaForm.cs [Design]",
+              "RelativeToolTip": "kutuphane_projesi\\AnaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:38:23.323Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SkorTablosuEkrani.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lllle\\source\\repos\\kutuphane_projesi\\kutuphane_projesi\\SkorTablosuEkrani.cs",
+              "RelativeDocumentMoniker": "kutuphane_projesi\\SkorTablosuEkrani.cs",
+              "ToolTip": "C:\\Users\\lllle\\source\\repos\\kutuphane_projesi\\kutuphane_projesi\\SkorTablosuEkrani.cs [Design]",
+              "RelativeToolTip": "kutuphane_projesi\\SkorTablosuEkrani.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:09:37.954Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnaForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lllle\\source\\repos\\kutuphane_projesi\\kutuphane_projesi\\AnaForm.Designer.cs",
+              "RelativeDocumentMoniker": "kutuphane_projesi\\AnaForm.Designer.cs",
+              "ToolTip": "C:\\Users\\lllle\\source\\repos\\kutuphane_projesi\\kutuphane_projesi\\AnaForm.Designer.cs",
+              "RelativeToolTip": "kutuphane_projesi\\AnaForm.Designer.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAYwJMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:47:50.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OyunEkrani.cs",
+              "DocumentMoniker": "C:\\Users\\lllle\\source\\repos\\kutuphane_projesi\\kutuphane_projesi\\OyunEkrani.cs",
+              "RelativeDocumentMoniker": "kutuphane_projesi\\OyunEkrani.cs",
+              "ToolTip": "C:\\Users\\lllle\\source\\repos\\kutuphane_projesi\\kutuphane_projesi\\OyunEkrani.cs",
+              "RelativeToolTip": "kutuphane_projesi\\OyunEkrani.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAD4v40AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T20:09:23.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OyunEkrani.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lllle\\source\\repos\\kutuphane_projesi\\kutuphane_projesi\\OyunEkrani.cs",
+              "RelativeDocumentMoniker": "kutuphane_projesi\\OyunEkrani.cs",
+              "ToolTip": "C:\\Users\\lllle\\source\\repos\\kutuphane_projesi\\kutuphane_projesi\\OyunEkrani.cs [Design]",
+              "RelativeToolTip": "kutuphane_projesi\\OyunEkrani.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:30:35.759Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1322,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
